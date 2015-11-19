@@ -10,3 +10,5 @@ services:
 notifications:
   email:
     varsha@shippable.com
+    
+cache: true
