@@ -7,3 +7,6 @@ env:
 services:
   - rabbitmq
 
+notifications:
+  email:
+    varsha@shippable.com
