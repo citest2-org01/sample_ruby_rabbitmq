@@ -9,6 +9,6 @@ services:
 
 notifications:
   email:
-    varsha@shippable.com
+    test_ci2@yahoo.in
     
 cache: true
